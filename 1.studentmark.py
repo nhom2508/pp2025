@@ -1,4 +1,4 @@
-# global lists to hold our data
+
 students = []
 courses = []
 marks = []
